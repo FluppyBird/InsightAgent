@@ -1,4 +1,4 @@
-# 🧠 InsightAgent – Multi-Role Meeting Summary & Action Item Tracking System
+# 🧠 InsightAgent – Multi-Role Meeting Summary
 
 InsightAgent is an AI-powered meeting assistant that automatically generates structured meeting summaries and action items from audio recordings.  
 It supports conversation clustering, summary generation, task extraction, and multi-speaker role identification, making it useful for project meetings, team standups, technical reviews, and interview retrospectives.
