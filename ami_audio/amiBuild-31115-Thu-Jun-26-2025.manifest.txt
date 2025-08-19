@@ -1,0 +1,21 @@
+All of the signals and transcription, and some of the annotations, have been released publicly under the  Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0). 
+
+	License text: CCBY4.0.txt
+
+Content of the download:
+
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2015a/audio/ES2015a.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2015b/audio/ES2015b.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2015c/audio/ES2015c.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/ES2015d/audio/ES2015d.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IS1008a/audio/IS1008a.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IS1008b/audio/IS1008b.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IS1008c/audio/IS1008c.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IS1008d/audio/IS1008d.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/TS3012a/audio/TS3012a.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/TS3012b/audio/TS3012b.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/TS3012c/audio/TS3012c.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/TS3012d/audio/TS3012d.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/EN2009d/audio/EN2009d.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IB4011/audio/IB4011.Mix-Headset.wav
+	https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IN1016/audio/IN1016.Mix-Headset.wav
